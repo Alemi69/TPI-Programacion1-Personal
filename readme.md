@@ -1,4 +1,5 @@
 # 🌎 Sistema de Gestión de Países.
+![Python](https://img.shields.io/badge/Python-3.11+-blue) ![Visual Studio Code](https://img.shields.io/badge/Editor-VSCode-blueviolet) ![GitHub](https://img.shields.io/badge/Repo-GitHub-lightgrey)
 **Trabajo Práctico Integrador (TPI) - Programación 1**
 
 Este proyecto es un sistema de consola desarrollado en Python que permite gestionar, filtrar, ordenar y analizar datos de países cargados desde un archivo CSV.
@@ -28,7 +29,7 @@ Para ejecutar este proyecto, sigue estos pasos:
     ```bash
     python sistema_gestion_países.py
     ```
-
+> **Nota:** Es importante ejecutar el script desde la carpeta `TPI/Aplicacion` para que pueda encontrar el archivo `.csv` correctamente.
 ---
 
 ## 🧭 Funcionalidades
@@ -68,5 +69,7 @@ Muestra cálculos automáticos sobre los datos actuales:
 
 ## 👥 Integrantes y Roles
 
-* **Enrique Alejandro Carrasco:** Desarrollo de la interfaz de terminal (menús, validaciones, interacción con el usuario).
-* **Juan José [Apellido]:** Desarrollo de la lógica de negocio (carga de datos, funciones de filtrado, ordenamiento y cálculos).
+| Integrante | Responsabilidad |
+| :--- | :--- |
+| **Enrique Alejandro Carrasco** | Desarrollo de la interfaz de terminal (menús, validaciones, interacción con el usuario). |
+| **Juan José [Apellido]** | Desarrollo de la lógica de negocio (carga de datos, funciones de filtrado, etc.). |
