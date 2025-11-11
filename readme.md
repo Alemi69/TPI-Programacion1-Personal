@@ -71,5 +71,5 @@ Muestra cálculos automáticos sobre los datos actuales:
 
 | Integrante | Responsabilidad |
 | :--- | :--- |
+| **Juan José Benítez** | Desarrollo de la lógica de negocio (carga de datos, funciones de filtrado, etc.). |
 | **Enrique Alejandro Carrasco** | Desarrollo de la interfaz de terminal (menús, validaciones, interacción con el usuario). |
-| **Juan José [Apellido]** | Desarrollo de la lógica de negocio (carga de datos, funciones de filtrado, etc.). |
